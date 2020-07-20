@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello Developers
+### Bettina Pulliam - Full Stack Web Developer
 
 <!--
 **bfpulliam/bfpulliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
