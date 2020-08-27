@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-<video src="https://raw.githubusercontent.com/bfpulliam/bfpulliam/master/assets/7MOLRU5BJME9L6PN.mp4" controls preload></video>
+<video src="https://raw.githubusercontent.com/bfpulliam/bfpulliam/master/assets/7MOLRU5BJME9L6PN.mp4"></video>
 </div>
