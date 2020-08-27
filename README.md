@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-<h3><img src="https://app.animaker.com/video/YNUP87RS71CER2CK" width="30">💻</h3>
+<img src="./assets/YNUP87RS71CER2CK.gif">
 </div>
