@@ -2,4 +2,6 @@
   <h1>Bettina Pulliam</h1>
 </div>
 
-<iframe src="https://app.animaker.com/animo/qe8B9jaxEEs4EtJX/" frameborder="0" allowfullscreen="true"> </iframe>
+<div align="center">
+<h3><img src="https://app.animaker.com/video/YNUP87RS71CER2CK" width="30">💻</h3>
+</div>
